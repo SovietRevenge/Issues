@@ -1,3 +1,3 @@
 # Issues
 
-https://github.com/SovietHubProject/Issues/issues
+https://github.com/SovietRevenge/Issues/issues
